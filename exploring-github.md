@@ -25,3 +25,12 @@ code        Follow this command with the full file name to open VSCode to direct
 ;           Allows multiple commands in sequence ( Example: mkdir test_folder; touch index.html )
 history     See all commands used
 clear       Clear the Terminal screen
+
+
+Git Trio:
+
+#1 git status
+#2 git add file-name.md
+#3 git commit -m "explanation of what you changed"
+#4 git status 
+#5 git push origin main
