@@ -34,3 +34,29 @@ Git Trio:
 #3 git commit -m "explanation of what you changed"
 #4 git status 
 #5 git push origin main
+
+## Vocab 
+-repo
+-access token 
+-markdown
+-branch
+-GitHub
+-git
+-diff
+-reconcile
+-Push
+-pull
+-cloning
+-local
+-remove
+
+## General Terminal Commands 
+-pwd
+-touch
+-rm
+
+## Git Terminal Commands 
+-git add
+=git commit -m "messsage"
+-git push origin 
+-git status
